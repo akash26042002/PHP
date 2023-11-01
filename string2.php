@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<?php
+    $string1="php programming";
+    echo $string1;
+    $l=strlen($string1);
+    echo "length=",$l;
+    $string2="my name is Akash";
+    $pos=strpos($string2,"name");
+    echo"the po
+    ?>
+</body>
+</html>
